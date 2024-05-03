@@ -11,7 +11,6 @@ const Title = ({ children }) => {
       }}
     >
       {children}
-      Created By Vaishnav Nishanth A V
     </h2>
   );
 };
@@ -45,7 +44,7 @@ const Content = () => {
 const Header = () => {
   return (
     <header>
-      <Title>Little Lemon 🍕</Title>
+      <Title>Little Lemon 🍕 Created By Vaishnav Nishanth A V</Title>
       <Switch />
     </header>
   );
