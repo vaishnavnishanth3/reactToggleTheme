@@ -11,6 +11,7 @@ const Title = ({ children }) => {
       }}
     >
       {children}
+      Created By Vaishnav Nishanth A V
     </h2>
   );
 };
