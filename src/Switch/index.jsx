@@ -7,7 +7,7 @@ const Switch = () => {
     <label className="switch">
       <input
         type="checkbox"
-        checked={theme === "light"}
+        checked={theme === "dark"}
         onChange={toggleTheme}
       />
       <span className="slider round" />
